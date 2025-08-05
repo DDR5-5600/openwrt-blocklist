@@ -1,5 +1,7 @@
-# TLDs 封鎖
+# TLDs blocklist
 #
-# 封鎖中華人民共和國
+# Block PRC
 #
 *.cn
+*.hk
+*.mo
