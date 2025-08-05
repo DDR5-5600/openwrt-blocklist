@@ -1,7 +1,5 @@
 # TLDs blocklist
 #
-# Block PRC
+# 封鎖新浪
 #
-*.cn
-*.hk
-*.mo
+sina.cn
