@@ -5,6 +5,6 @@
 ! Syntax: AdBlock
 ! Number of latin TLDs: 3
 !
-||*.cn^
-||*.hk^
-||*.mo^
+||cn^
+||hk^
+||mo^
