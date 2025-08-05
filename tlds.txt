@@ -1,5 +1,7 @@
-# TLDs blocklist
-#
-# 封鎖新浪
-#
-sina.cn
+! TLDs blocklist
+!
+! 封鎖中華人民共和國
+!
+||*.cn^
+||*.hk^
+||*.mo^
