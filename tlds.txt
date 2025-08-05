@@ -1,10 +1,14 @@
 [Adblock Plus 2.0]
-!
-! Title: TLDs custom blocklist
-! Description: Top Level Domains
-! Syntax: AdBlock
-! Number of latin TLDs: 3
-!
+! 中國
 ||cn^
 ||hk^
 ||mo^
+! 俄羅斯
+||ru^
+||su^
+! 北韓
+||kp^
+! 巴基斯坦
+||pk^
+! 伊朗
+||ir^
