@@ -1,4 +1,4 @@
-[Adblock Plus]
+[Adblock Plus 2.0]
 !
 ! Title: TLDs custom blocklist
 ! Description: Top Level Domains
