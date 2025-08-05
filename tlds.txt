@@ -1,3 +1,4 @@
+[Adblock Plus]
 ||*.cn^
 ||*.hk^
 ||*.mo^
