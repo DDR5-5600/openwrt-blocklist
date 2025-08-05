@@ -1,4 +1,10 @@
 [Adblock Plus]
+!
+! Title: TLDs custom blocklist
+! Description: Top Level Domains
+! Syntax: AdBlock
+! Number of latin TLDs: 3
+!
 ||*.cn^
 ||*.hk^
 ||*.mo^
