@@ -1,1 +1,7 @@
+! PRC (except HK)
 ||*.cn^
+||*.mo^
+! Russia
+||*.ru^
+! Soviet Union
+||*.su^
