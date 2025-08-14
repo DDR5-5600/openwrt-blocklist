@@ -1,7 +1,9 @@
-! PRC (except HK)
+! ccTLD 封鎖清單
+!
+! 中華人民共和國 (暫時排除香港)
 ||*.cn^
 ||*.mo^
-! Russia
+! 俄羅斯
 ||*.ru^
-! Soviet Union
+! 蘇聯
 ||*.su^
