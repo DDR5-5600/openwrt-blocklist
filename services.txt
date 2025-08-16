@@ -1,2 +1,6 @@
+! 服務封鎖清單
 ! QQ
 ||qq.com^
+! 抖音
+||tiktok.com^
+||douyin.com^
