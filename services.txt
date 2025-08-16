@@ -1,9 +1,16 @@
 ! 服務封鎖清單
 !
+! 百度
+||baidu.com^
 ! QQ
 ||qq.com^
-! 抖音
+! 字節跳動
+||bytedance.com^
 ||tiktok.com^
 ||douyin.com^
+||pipix.com^
+||ixigua.com^
+||toutiao.com^
 ! Bilibili
 ||bilibili.com^
+||bilibili.tv^
