@@ -8,9 +8,12 @@
 ||bytedance.com^
 ||tiktok.com^
 ||douyin.com^
+||capcut.com^
 ||pipix.com^
 ||ixigua.com^
 ||toutiao.com^
+! 小紅書
+||xiaohongshu.com^
 ! Bilibili
 ||bilibili.com^
 ||bilibili.tv^
