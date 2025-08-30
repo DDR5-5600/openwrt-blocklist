@@ -7,7 +7,7 @@
 ! 字節跳動
 ||bytedance.com^
 ||*tiktok*^
-||douyin.com^
+||*douyin*^
 ||capcut.com^
 ||pipix.com^
 ||ixigua.com^
