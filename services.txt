@@ -1,5 +1,7 @@
 ! 服務封鎖清單
 !
+! Yandex
+||*yandex*^
 ! 百度
 ||*baidu*^
 ! QQ
