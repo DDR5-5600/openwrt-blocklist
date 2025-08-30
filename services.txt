@@ -6,7 +6,7 @@
 ||qq.com^
 ! 字節跳動
 ||bytedance.com^
-||tiktok.com^
+||*tiktok*^
 ||douyin.com^
 ||capcut.com^
 ||pipix.com^
