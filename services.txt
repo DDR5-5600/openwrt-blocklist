@@ -13,7 +13,7 @@
 ||ixigua.com^
 ||toutiao.com^
 ! 小紅書
-||xiaohongshu.com^
+||*xiaohongshu*^
 ! Bilibili
 ||bilibili.com^
 ||bilibili.tv^
