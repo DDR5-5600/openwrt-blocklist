@@ -1,7 +1,7 @@
 ! 服務封鎖清單
 !
 ! 百度
-||baidu.com^
+||*baidu*^
 ! QQ
 ||qq.com^
 ! 字節跳動
