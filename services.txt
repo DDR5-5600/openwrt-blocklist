@@ -15,5 +15,4 @@
 ! 小紅書
 ||*xiaohongshu*^
 ! Bilibili
-||bilibili.com^
-||bilibili.tv^
+||*bilibili*^
