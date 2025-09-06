@@ -4,6 +4,7 @@
 ||*yandex*^
 ! 百度
 ||*baidu*^
+||*bdycdn*^
 ! QQ
 ||qq.com^
 ! 字節跳動
