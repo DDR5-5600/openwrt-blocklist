@@ -19,3 +19,5 @@
 ||xhscdn.com^
 ! Bilibili
 ||*bilibili*^
+! 華為
+||*huawei*^
