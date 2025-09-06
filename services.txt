@@ -7,7 +7,7 @@
 ! QQ
 ||qq.com^
 ! 字節跳動
-||bytedance.com^
+||*bytedance*^
 ||*tiktok*^
 ||*douyin*^
 ||capcut.com^
