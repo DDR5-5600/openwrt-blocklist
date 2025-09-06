@@ -16,5 +16,6 @@
 ||toutiao.com^
 ! 小紅書
 ||*xiaohongshu*^
+||xhscdn.com^
 ! Bilibili
 ||*bilibili*^
