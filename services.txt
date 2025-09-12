@@ -5,6 +5,8 @@
 ! 百度
 ||*baidu*^
 ||*bdycdn*^
+! 微博
+||*weibo*^
 ! QQ
 ||qq.com^
 ! 字節跳動
