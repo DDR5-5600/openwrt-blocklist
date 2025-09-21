@@ -22,5 +22,7 @@
 ||xhscdn.com^
 ! Bilibili
 ||*bilibili*^
+! 網易
+||163.com^
 ! 華為
 ||*huawei*^
