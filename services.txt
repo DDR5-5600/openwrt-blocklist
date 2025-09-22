@@ -9,6 +9,8 @@
 ||*weibo*^
 ! QQ
 ||qq.com^
+! 微信
+||wechat.com^
 ! 字節跳動
 ||*bytedance*^
 ||*tiktok*^
