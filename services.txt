@@ -11,6 +11,7 @@
 ||qq.com^
 ! 微信
 ||*wechat*^
+||*weixin*^
 ! 字節跳動
 ||*bytedance*^
 ||*tiktok*^
