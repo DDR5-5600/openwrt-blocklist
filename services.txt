@@ -30,3 +30,5 @@
 ||*huawei*^
 ! 知乎
 ||zhihu.com^
+! CSDN
+||csdn.net^
