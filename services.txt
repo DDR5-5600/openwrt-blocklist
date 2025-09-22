@@ -28,3 +28,5 @@
 ||163.com^
 ! 華為
 ||*huawei*^
+! 知乎
+||zhihu.com^
