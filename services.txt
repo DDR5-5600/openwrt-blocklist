@@ -7,7 +7,8 @@
 ! 百度
 ||*baidu*^
 ||*bdycdn*^
-! 微博
+! 新浪
+||sina.com
 ||*weibo*^
 ! 騰訊
 ||qq.com^
