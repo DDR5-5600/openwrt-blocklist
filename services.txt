@@ -34,6 +34,8 @@
 ! 網易
 ||*netease*^
 ||163.com^
+! 新華網
+||*xinhuanet*^
 ! 華為
 ||*huawei*^
 ! 知乎
