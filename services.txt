@@ -25,6 +25,8 @@
 ||xhscdn.com^
 ! Bilibili
 ||*bilibili*^
+! 快手
+||*kuaishou*^
 ! 網易
 ||*netease*^
 ||163.com^
