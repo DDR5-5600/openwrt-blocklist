@@ -25,10 +25,12 @@
 ! 小紅書
 ||*xiaohongshu*^
 ||xhscdn.com^
-! Bilibili
-||*bilibili*^
 ! 快手
 ||*kuaishou*^
+! Bilibili
+||*bilibili*^
+! 優酷
+||*youku*^
 ! 網易
 ||*netease*^
 ||163.com^
