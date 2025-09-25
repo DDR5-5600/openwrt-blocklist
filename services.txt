@@ -2,6 +2,8 @@
 !
 ! Yandex
 ||*yandex*^
+! VK
+||vk.com^
 ! 百度
 ||*baidu*^
 ||*bdycdn*^
