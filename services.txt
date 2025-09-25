@@ -9,9 +9,8 @@
 ||*bdycdn*^
 ! 微博
 ||*weibo*^
-! QQ
+! 騰訊
 ||qq.com^
-! 微信
 ||*wechat*^
 ||*weixin*^
 ! 字節跳動
